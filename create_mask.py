@@ -177,7 +177,7 @@ class LooseAndMask:
 
 if __name__ == '__main__':
     # ---------------------------------Parameters------------------------------------
-    project_path = '/Users/yanyuqi/Desktop/Proj/data_fMRIprep'
+    project_path = '/Users/username/Proj/data_fMRIprep'
 
     # If output path is None, it will be set as default path as in directory structure
     # Make sure dirs listing in path are exist.
